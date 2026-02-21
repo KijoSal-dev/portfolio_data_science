@@ -62,7 +62,7 @@ Each project includes:
 **1. Using Python's built-in HTTP server:**
 cd "c:\Users\hp\Data Science and AI\New folder\portfolio_data_science"
 python -m http.server 8000
-# then open:
+Then open:
 start http://localhost:8000
 
 **2. VS Code Live Server:** 
